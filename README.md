@@ -1,0 +1,1 @@
+# plugins-hw-image-widget
